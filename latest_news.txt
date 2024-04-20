@@ -1,0 +1,2 @@
+2024/4/21 00:37:24 SLauncher is now renamed as SunnyLauncher.
+2024/4/21 00:38:05 SunnyLauncher will use VB .NET instead of BATCH files.
